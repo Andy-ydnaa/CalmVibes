@@ -31,6 +31,9 @@ Iniciar web desde archivo home.html con Open with Live Server
 ## Prototipado Figma
 https://www.figma.com/design/rUPvPeC7gHzdwh5g8NRIgr/Reproductor-en-Primer-Plano?node-id=0-1&m=dev
 
+## Logica de Base de Datos
+https://docs.google.com/document/d/1Qwco6MkN-SMfJGR98JC5unvvmHHzpJtn7EMzqC4rnDk/edit?usp=sharing
+
 ## Tecnologías Usadas
 ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white&color=orange)
 ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white&color=blue)
